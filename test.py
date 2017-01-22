@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-MyInt = 10
+MyInt  = 10
 MyFloat = 2.5
 MyString = "X:"
 
