@@ -9,5 +9,7 @@ It has five legs.
 
 Yesterday was saturday.
 
+[![Build Status](https://travis-ci.org/Aoife10/Blackcat.svg?branch=master)](https://travis-ci.org/Aoife10/Blackcat)
+
 
 
