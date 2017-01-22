@@ -3,9 +3,7 @@ python:
   - "2.7"
 install: true
 script: 
-  - ./test.py
-
-sudo spt-get install cowsay
-export PATH=/usr/bin:/bin:/usr/games
-
-cowsay "HEYHOOOO" | cowsay -n -f stegosaurus
+ - ./test.py
+ - sudo spt-get install cowsay
+ - export PATH=/usr/bin:/bin:/usr/games
+ - cowsay "HEYHOOOO" | cowsay -n -f stegosaurus
