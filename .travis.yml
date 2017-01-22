@@ -4,6 +4,6 @@ python:
 install: true
 script: 
  - ./test.py
- - sudo spt-get install cowsay
+ - sudo apt-get install cowsay
  - export PATH=/usr/bin:/bin:/usr/games
  - cowsay "HEYHOOOO" | cowsay -n -f stegosaurus
