@@ -8,4 +8,4 @@ script:
  - export PATH=/usr/bin:/bin:/usr/games
  - cowsay "HEYHOOOO" | cowsay -n -f stegosaurus
 
-[![Build Status](https://travis-ci.org/Aoife10/Blackcat.svg?branch=master)](https://travis-ci.org/Aoife10/Blackcat)
+
