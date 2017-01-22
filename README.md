@@ -1,4 +1,4 @@
 # Blackcat
 five-legged-hamster
 
-![oihuihiohijihugi](Afrotree.jpg)
+![oihuihiohijihugi](Afro tree.jpg)
